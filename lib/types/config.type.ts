@@ -28,6 +28,8 @@ export type ContractConfigType = {
   PriceOraclePackageId: string,
   TimeOracleObjectId: string,
   PriceFeedStorageObjectId: string,
+  PriceOracleAuthorityCapObjectId: string,
+  TimeOracleAuthorityCapObjectId: string,
 }
 
 export type ContractsConfig = {

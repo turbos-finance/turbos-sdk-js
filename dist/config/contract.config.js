@@ -3,10 +3,10 @@ exports.__esModule = true;
 exports.contractConfig = void 0;
 exports.contractConfig = {
     "DEVNET": {
-        "ExchangePackageId": "0x88b3387f36c92e0fa79019c3997e43dcb248a158",
-        "VaultObjectId": "0x63847d33c6256f0fd8cbd86d855a59e69be8f093",
-        "PositionsObjectId": "0xc6a061a161c9e2f43a4c5bcefdf173a96ffc4f82",
-        "ManagerCapObjectId": "0x1e2e578f2b2dfef2b579bccd0b0acc21229865bb",
+        "ExchangePackageId": "0x2fe616b833492a29830747cfb889d96623786d5f",
+        "VaultObjectId": "0x93b43a74eb03e0543d4288d1965571c03239aec9",
+        "PositionsObjectId": "0xeb8aa2716143da4875cef07a388d6296fe9cad4f",
+        "ManagerCapObjectId": "0x51933418121c7314fe5b57876da50e1eafc0d395",
         "TimeOraclePackageId": "0x87ee14eb7526a1a4cd87e394b31d64d5b9fc7f0a",
         "PriceOraclePackageId": "0xce763e6fa2be4e319ba90676a9b0af3be78c1973",
         "PriceOracleAuthorityCapObjectId": "0xe52698cab3b137b7b02951b28ce8c7c0e94553a7",

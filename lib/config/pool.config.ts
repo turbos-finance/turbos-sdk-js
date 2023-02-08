@@ -15,24 +15,24 @@ export const symbolPoolsConfig: SymbolPoolsConfig = {
       "PriceFeedObjectId": "0xa86802a4aba504573c773e20c8f50c2780397f14",
       "PriceFeedId": "3b3852469b9667b95ce1ef1fe4ceba4ebba4e07b42acda4e8e3246598e5cb73f",
       "Type": "0x573284904a029a7df14f01223f9e88af24af3b5e::eth::ETH",
-      "PoolObjectId": "0x1efe3dc579b918498b08d3699a9a90437d598c46",
-      "PoolDataObjectId": "0xdc9fb71bc87eb593367402536c95416c2d7fd1a3"
+      "PoolObjectId": "0xa7e05ea72758185aae6e5aace5401af65246d8df",
+      "PoolDataObjectId": "0xd8f134d94728336860b06a68e73f9c94fd00520e"
     },
     "USDC": {
       "PackageId": "0x573284904a029a7df14f01223f9e88af24af3b5e",
       "PriceFeedObjectId": "0xd10e07b4d499972297d7730b3b561ec89ae11e18",
       "PriceFeedId": "348eb3a88317813f7541e4008843b907822259c008a2793e43edce2d1360e27d",
       "Type": "0x573284904a029a7df14f01223f9e88af24af3b5e::usdc::USDC",
-      "PoolObjectId": "0xb1df3afd3e540b74baf6cdb4aed2732dc86f6527",
-      "PoolDataObjectId": "0x72ea07b41208fc3871897f6fb5e90e79e6dc58a1"
+      "PoolObjectId": "0xcf4457692ebbad1ab5c47d41ed78ab98ca9f2470",
+      "PoolDataObjectId": "0x1f1522f91c409a1c819f1ed359680d65aac96236"
     },
     "SUI": {
       "PackageId": "0x0000000000000000000000000000000000000002",
       "PriceFeedObjectId": "0x1ad4067abc2ff1bc2c9b94939745c4a421a8722d",
       "PriceFeedId": "16c3533d98cb020a2304c7f26169ac2597079f9aac853dd141d0aff86f540d56",
       "Type": "0x0000000000000000000000000000000000000002::sui::SUI",
-      "PoolObjectId": "0xa08277b23e651e3daba175bc361224201d9dff2f",
-      "PoolDataObjectId": "0x6e4f50054269f834bf8cbbd48fba3717687c1000"
+      "PoolObjectId": "0xebd30b9c7a32db0a47e5dc5b8d2da47c213fa036",
+      "PoolDataObjectId": "0x98a2a6ac47fade736021c7be73d7ea655eecfd9e"
     }
   },
   "TESTNET": {

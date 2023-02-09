@@ -7,32 +7,32 @@ export const symbolPoolsConfig: SymbolPoolsConfig = {
       "PriceFeedObjectId": "0x1df5190e3c353a7253c8b091646ba18d8d973d43",
       "PriceFeedId": "fbd7c495fcc83ec7ce6522eb44a453a70f88ef64664f1ed49e011be87ffe3525",
       "Type": "0x9febb144e1e06461b1be9a64dd0b6d69e371d156::btc::BTC",
-      "PoolObjectId": "0xc943e82467b59abbe10c865367b99a0ccb28b79b",
-      "PoolDataObjectId": "0xa8240e55b4219a6c093e96b51bdeef2fe2ad4e49"
+      "PoolObjectId": "0x730238f1324355b44e54b84250850957aaac5cf3",
+      "PoolDataObjectId": "0x401c6b32e1b48965f251cb4159a8a86c01ad2403"
     },
     "ETH": {
       "PackageId": "0x9febb144e1e06461b1be9a64dd0b6d69e371d156",
       "PriceFeedObjectId": "0x0391f36d066da32f4ca2845a7d97a15b6b86a37f",
       "PriceFeedId": "3b3852469b9667b95ce1ef1fe4ceba4ebba4e07b42acda4e8e3246598e5cb73f",
       "Type": "0x9febb144e1e06461b1be9a64dd0b6d69e371d156::eth::ETH",
-      "PoolObjectId": "0xa7e05ea72758185aae6e5aace5401af65246d8df",
-      "PoolDataObjectId": "0xd8f134d94728336860b06a68e73f9c94fd00520e"
+      "PoolObjectId": "0x9cbac3d5d5961c2d30802005e8ad988d702e3798",
+      "PoolDataObjectId": "0xd611512adef1adbb9374cdfa7b532fe61a6596d7"
     },
     "USDC": {
       "PackageId": "0x9febb144e1e06461b1be9a64dd0b6d69e371d156",
       "PriceFeedObjectId": "0x1c670827ae6f5e5c877503c62f7426a40da38cec",
       "PriceFeedId": "348eb3a88317813f7541e4008843b907822259c008a2793e43edce2d1360e27d",
       "Type": "0x9febb144e1e06461b1be9a64dd0b6d69e371d156::usdc::USDC",
-      "PoolObjectId": "0xcf4457692ebbad1ab5c47d41ed78ab98ca9f2470",
-      "PoolDataObjectId": "0x1f1522f91c409a1c819f1ed359680d65aac96236"
+      "PoolObjectId": "0xc55905742b734a4e3ddb46e0e8374c236dfe2835",
+      "PoolDataObjectId": "0x3e136b3e828dedc8f01e085c66f0896fabf94986"
     },
     "SUI": {
       "PackageId": "0x0000000000000000000000000000000000000002",
       "PriceFeedObjectId": "0xc3f6de86a71cc477c23b7c8dc9e07f1f29adfe66",
       "PriceFeedId": "16c3533d98cb020a2304c7f26169ac2597079f9aac853dd141d0aff86f540d56",
       "Type": "0x0000000000000000000000000000000000000002::sui::SUI",
-      "PoolObjectId": "0xebd30b9c7a32db0a47e5dc5b8d2da47c213fa036",
-      "PoolDataObjectId": "0x98a2a6ac47fade736021c7be73d7ea655eecfd9e"
+      "PoolObjectId": "0x5f93e80a8a301ad010d711bead211fe4c48f67f4",
+      "PoolDataObjectId": "0xc56032957842d0886e7b68e55d4fb161b9e03303"
     }
   },
   "TESTNET": {

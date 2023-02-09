@@ -8,8 +8,8 @@ exports.symbolPoolsConfig = {
             "PriceFeedObjectId": "0xe64ef093cfb66b41ebb1d3a61b28393f725b2a69",
             "PriceFeedId": "fbd7c495fcc83ec7ce6522eb44a453a70f88ef64664f1ed49e011be87ffe3525",
             "Type": "0x573284904a029a7df14f01223f9e88af24af3b5e::btc::BTC",
-            "PoolObjectId": "0xb91c034184e5e9a8389fa5c2e00360b0a50add10",
-            "PoolDataObjectId": "0xe5b32addbdec15778d391f2b2d33e3d5b175e115"
+            "PoolObjectId": "0xc943e82467b59abbe10c865367b99a0ccb28b79b",
+            "PoolDataObjectId": "0xa8240e55b4219a6c093e96b51bdeef2fe2ad4e49"
         },
         "ETH": {
             "PackageId": "0x573284904a029a7df14f01223f9e88af24af3b5e",

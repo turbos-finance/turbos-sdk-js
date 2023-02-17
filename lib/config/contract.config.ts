@@ -2,10 +2,10 @@ import { ContractsConfig } from "../types/config.type";
 
 export const contractConfig: ContractsConfig = {
 	"DEVNET": {
-		"ExchangePackageId": "0xd399911cc8c0a4f81e16fdb01c75a52862b95e1a",
-		"VaultObjectId": "0x0be16388e843dfbcbcbf5d080487e37cc61f8f6a",
-		"PositionsObjectId": "0x11a8719627f92de62fe608b579cbe2b34f6734a4",
-		"ManagerCapObjectId": "0x1ab167431ed4249c0f9612c18f37255b9cb78d9c",
+		"ExchangePackageId": "0x3ef900cc6d05a5a544062ff1011495ba84bea44c",
+		"VaultObjectId": "0x57c6b86f0fcd8ce89a90f46586cff30c5a950b6a",
+		"PositionsObjectId": "0x2fdeb0c82d73b43d2731608c0c7c052e9a2734de",
+		"ManagerCapObjectId": "0xf9e732b1b0fdd5c050573134444f8ec2f1573174",
 		"TimeOraclePackageId": "0xa73cb37f1a0cca81e3193a2c9d748b150c2f3a43",
 		"PriceOraclePackageId": "0x2e98393a9eeb0c006aa006cd5102fe7c71b5faa2",
 		"PriceOracleAuthorityCapObjectId": "0x75a92d04df477d884992381d91b73406ea3bc1ff",

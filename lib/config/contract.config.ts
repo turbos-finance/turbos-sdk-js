@@ -10,7 +10,7 @@ export const contractConfig: ContractsConfig = {
 		"PriceOraclePackageId": "0x114e9688c3208b1c0d1f42a442e69bc793db52fb",
 		"PriceOracleAuthorityCapObjectId": "0xeaf614fcdc6a257a4ff085a02babb9311542dee1",
 		"TimeOracleObjectId": "0x0868577fd409516d4aba469af4aeab5b1b1eac86",
-		"TimeOracleAuthorityCapObjectId": "0x960dc261b3134eb8436da5598d910f436d65f50b",
+		"TimeOracleAuthorityCapObjectId": "0x9c2ad25044c3595517ff5cc219c1794ef5853c7b",
 		"PriceFeedStorageObjectId": "0xb1a5877ba740bad7adc4446d6129fd6de59ddcf1",
 	},
 	"TESTNET": {

@@ -3,15 +3,15 @@ exports.__esModule = true;
 exports.contractConfig = void 0;
 exports.contractConfig = {
     "DEVNET": {
-        "ExchangePackageId": "0x4924f18e4f401f1b941356a1adb5c98aaba22bb5",
-        "VaultObjectId": "0x4d280e9ef310b3a37a451d1bc63f91f21687ff0f",
-        "PositionsObjectId": "0x8973ce553174685b70606f94ffdbea670304aa13",
-        "ManagerCapObjectId": "0x164e301d0b9f53f6397f521f0f9ad5cde082a2ea",
+        "ExchangePackageId": "0xda41653026f6e362bc66b69dbb0863672e7918c7",
+        "VaultObjectId": "0xf1f5ac8c739596137955409508c8573fb0bc5d12",
+        "PositionsObjectId": "0xf230d47963539c3c581fd5d5e772fc8a2ce2828b",
+        "ManagerCapObjectId": "0x7048cce9d7365c8c8876ea13a8c4b5456ff79680",
         "TimeOraclePackageId": "0x960dc261b3134eb8436da5598d910f436d65f50b",
         "PriceOraclePackageId": "0x114e9688c3208b1c0d1f42a442e69bc793db52fb",
         "PriceOracleAuthorityCapObjectId": "0xeaf614fcdc6a257a4ff085a02babb9311542dee1",
         "TimeOracleObjectId": "0x0868577fd409516d4aba469af4aeab5b1b1eac86",
-        "TimeOracleAuthorityCapObjectId": "0x960dc261b3134eb8436da5598d910f436d65f50b",
+        "TimeOracleAuthorityCapObjectId": "0x9c2ad25044c3595517ff5cc219c1794ef5853c7b",
         "PriceFeedStorageObjectId": "0xb1a5877ba740bad7adc4446d6129fd6de59ddcf1"
     },
     "TESTNET": {

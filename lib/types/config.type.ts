@@ -1,4 +1,4 @@
-export type NetworkType = 'DEVNET' | 'TESTNET' | 'MAINNET';
+export type NetworkType = 'DEVNET' | 'TESTNET' | 'MAINNET' | 'LOCALNET';
 export type SymbolType = 'BTC' | 'ETH' | 'USDC' | 'SUI';
 export type TLPAndSymbolType = SymbolType | 'TLP';
 

@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@mysten/sui.js": "^0.22.0",
+    "@mysten/sui.js": "^0.32.1",
     "bignumber.js": "^9.1.1"
   },
   "devDependencies": {
